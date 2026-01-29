@@ -26,7 +26,8 @@
 </p>
 
 ---
-
+### Holopin Dashboard
+<img src="./holopin.png">
 ### 🛠 Tech Stack & Tools:
 <p align="center"> 
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/> </a>
